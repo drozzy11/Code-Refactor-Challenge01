@@ -1,4 +1,5 @@
 /*-- Universal Selectors --*/
+/*-- adding styles to entire website --*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -6,6 +7,7 @@
 }
 
 /*-- Elemental Selectors --*/
+/*-- This is giving styles to specific elements --*/
 
 body {
     background-color: #d9dcd6;
@@ -54,6 +56,7 @@ p {
 }
 
 /*-- Class Selectors --*/
+/*-- This is giving styles to specific class selectors that are identified with a (.) infront of them --*/
 
 /*-- Deleted this to add alt text to image 
 .hero {

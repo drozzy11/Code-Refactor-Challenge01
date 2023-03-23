@@ -1,13 +1,10 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+## Description
 
-## User Story
-
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+Refactored HTML and CSS code to ensure in meet accessiblity standards. I did this by ensuring 
+there are semantic HTML elements and they follow a logical structure. All images now also have alt text to abide
+by  accessibility standards, and the website now has a concise title. The acceptance criteria that was met is stated below.
 
 ## Acceptance Criteria
 
@@ -30,8 +27,11 @@ THEN I find a concise, descriptive title
 The following image shows the web application's appearance and functionality:
 
 
+![Image of Functional Website](/assets/images/_Users_diego_bootcamp_Code-Refactor-Challenge01_index.html%20(1).png)
+
+## Website Link
+
 
 > **Note**: This layout is designed for desktop viewing
-
 
 
