@@ -26,6 +26,8 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
+<img width="1440" alt="Screenshot 2023-03-22 at 3 54 04 AM" src="https://user-images.githubusercontent.com/126652132/226850540-6bf3c742-c7cb-4020-9bf1-9b242c2d6a5d.png">
+
 
 ![Image of Functional Website](/assets/images/_Users_diego_bootcamp_Code-Refactor-Challenge01_index.html%20(1).png)
 
